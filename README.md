@@ -1,8 +1,9 @@
 # Generative AI Papers   
 
 ### DeepSeek   
-[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
-[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)    
+[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)    
+[Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)     
 
 ### Agentic AI   
 
