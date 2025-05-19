@@ -22,8 +22,8 @@
 [THEAGENTCOMPANY: BENCHMARKING LLM AGENTS ON CONSEQUENTIAL REAL WORLD TASKS](https://arxiv.org/pdf/2412.14161)    
 
 
-## Fine-tuning for Text2SQL and Text2Cypher
-[Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)
-[Aligning Large Language Models to a Domain-specific Graph Database](https://arxiv.org/html/2402.16567v1)
+### Fine-tuning for Text2SQL and Text2Cypher
+[Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)    
+[Aligning Large Language Models to a Domain-specific Graph Database](https://arxiv.org/html/2402.16567v1)    
 
 
