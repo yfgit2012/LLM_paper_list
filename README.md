@@ -2,7 +2,8 @@
 
 ### DeepSeek   
 [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)    
-[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)    
+[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)   
+[Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)     
 
 ### Agentic AI   
