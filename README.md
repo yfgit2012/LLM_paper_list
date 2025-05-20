@@ -1,13 +1,13 @@
 # Generative AI Papers   
 
 ### DeepSeek   
-[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)    
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)   
 [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)   
 [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)     
 
 ### Agentic AI   
-
+[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864)
 [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)   
 
 ### Reinforcement Fine-Tuning
