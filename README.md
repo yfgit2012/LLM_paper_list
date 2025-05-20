@@ -7,11 +7,11 @@
 [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)     
 
 ### Agentic AI   
-[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864)
+[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864)   
 [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)   
 
 ### Reinforcement Fine-Tuning
-[A comparison of Self-Play Algorithms Under a Generalized Framework](https://arxiv.org/pdf/2006.04471)
+[A comparison of Self-Play Algorithms Under a Generalized Framework](https://arxiv.org/pdf/2006.04471)   
 
 ### LLM reasoning    
 [From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review](https://arxiv.org/pdf/2504.19678)    
