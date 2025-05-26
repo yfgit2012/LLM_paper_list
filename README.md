@@ -10,7 +10,7 @@
 - DeepSeek-V3: [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)   
 - DeepSeek: [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 - DeepSeek: [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)
-- DeepSeek: [DeepSeek LLM Scaling Open-Source Language Models with Longtermism](https://arxiv.org/pdf/2401.02954)
+- DeepSeekMath with GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300))
 
 
 ### Agentic AI   
