@@ -6,11 +6,12 @@
 - PoT: [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588)
 - ToRA: [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452)
 - [A comparison of Self-Play Algorithms Under a Generalized Framework](https://arxiv.org/pdf/2006.04471)
+- DeepSeekMath with GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) -- [[notes](./papers/grpo.md)]
 - DeepSeek-R1: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)   
 - DeepSeek-V3: [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)   
 - DeepSeek: [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 - DeepSeek: [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)
-- DeepSeekMath with GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300))
+
 
 
 ### Agentic AI   
