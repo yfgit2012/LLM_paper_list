@@ -13,15 +13,20 @@
 - DeepSeek: [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)
 
 
+### LLM reasoning    
+- [Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/pdf/2502.04384)    
+
 
 ### Agentic AI   
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864)   
-- [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)   
-   
+- [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)
+- [From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review](https://arxiv.org/pdf/2504.19678)       
 
-### LLM reasoning    
-- [From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review](https://arxiv.org/pdf/2504.19678)    
-- [Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/pdf/2502.04384)    
+
+### Agent Apps
+- Research agent:
+  (1) [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227)
+  (2) [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/pdf/2503.18102)
 
 
 ### Agentic AI evaluation   
@@ -30,7 +35,7 @@
 
 
 ### Fine-tuning for Text2SQL and Text2Cypher
-[Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)    
-[Aligning Large Language Models to a Domain-specific Graph Database](https://arxiv.org/html/2402.16567v1)    
+- [Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)    
+- [Aligning Large Language Models to a Domain-specific Graph Database](https://arxiv.org/html/2402.16567v1)    
 
 
