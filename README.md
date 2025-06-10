@@ -18,7 +18,8 @@
 
 ### LLM reasoning    
 - [Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/pdf/2502.04384)
-- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) -- [[notes](https://www.linkedin.com/posts/yunfei-felix-bai-909b861_for-a-long-time-the-inner-workings-of-large-activity-7314371553020821504-7gNB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABaCZkBjRFlGTUWtb_PCnQmMW0bBukeXLw)] 
+- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) -- [[notes](https://www.linkedin.com/posts/yunfei-felix-bai-909b861_for-a-long-time-the-inner-workings-of-large-activity-7314371553020821504-7gNB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABaCZkBjRFlGTUWtb_PCnQmMW0bBukeXLw)]
+- [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)    
 
 
 ### Agentic AI
