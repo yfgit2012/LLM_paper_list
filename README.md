@@ -16,10 +16,18 @@
 - Llama4: [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 
 
+### LLM architecture 
+- [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](https://arxiv.org/pdf/2507.10524)
+- [A MAMBA FOUNDATION MODEL FOR TIME SERIES FORECASTING](https://arxiv.org/pdf/2411.02941)
+- [Is Mamba Effective for Time Series Forecasting](https://arxiv.org/pdf/2411.02941)
+
+
 ### LLM reasoning    
 - [Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/pdf/2502.04384)
 - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) -- [[notes](https://www.linkedin.com/posts/yunfei-felix-bai-909b861_for-a-long-time-the-inner-workings-of-large-activity-7314371553020821504-7gNB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABaCZkBjRFlGTUWtb_PCnQmMW0bBukeXLw)]
-- [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)    
+- [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+- [REASONING OR MEMORIZATION? UNRELIABLE RESULTS OF REINFORCEMENT LEARNING DUE TO DATA CONTAMINATION](https://arxiv.org/pdf/2507.10532)
+- [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/pdf/2504.13837)
 
 
 ### Agentic AI
@@ -50,6 +58,7 @@
 
 ### Fine-tuning for Text2SQL and Text2Cypher
 - [Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)    
-- [Aligning Large Language Models to a Domain-specific Graph Database](https://arxiv.org/html/2402.16567v1)    
+- [Aligning Large Language Models to a Domain-specific Graph Database](https://arxiv.org/html/2402.16567v1)
+-  
 
 
