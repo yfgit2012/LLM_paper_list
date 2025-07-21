@@ -14,6 +14,7 @@
 - DeepSeek: [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 - DeepSeek: [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)
 - Llama4: [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+- DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476),[repo](https://github.com/BytedTsinghua-SIA/DAPO)
 
 
 ### LLM architecture 
@@ -42,7 +43,12 @@
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)  
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)
-     
+
+
+### Deep Research Agent 
+- [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/pdf/2506.12594)
+- [DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP](https://arxiv.org/pdf/2506.18096v1)
+- [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/pdf/2504.03160)
 
 
 ### Agent Apps
