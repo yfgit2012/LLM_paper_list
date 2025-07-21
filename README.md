@@ -49,12 +49,9 @@
 - [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/pdf/2506.12594)
 - [DEEP RESEARCH AGENTS: A SYSTEMATIC EXAMINATION AND ROADMAP](https://arxiv.org/pdf/2506.18096v1)
 - [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/pdf/2504.03160)
-
-
-### Agent Apps
 - Research agent: [[notes](./papers/agentRxiv.md)]    
-  (1) [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227)    
-  (2) [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/pdf/2503.18102)    
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227)    
+- [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/pdf/2503.18102)    
 
 
 ### Agentic AI evaluation   
