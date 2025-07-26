@@ -43,6 +43,7 @@
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)  
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)
+- [Kimi K2: Open Agentic Intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
 
 
 ### Deep Research Agent 
