@@ -61,7 +61,9 @@
 - [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416)
 - [GAIA benchmark of GenAI assistant](https://arxiv.org/pdf/2311.12983)  
 - [THEAGENTCOMPANY: BENCHMARKING LLM AGENTS ON CONSEQUENTIAL REAL WORLD TASKS](https://arxiv.org/pdf/2412.14161)
-- [Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey](https://arxiv.org/abs/2503.22458)  
+- [Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey](https://arxiv.org/abs/2503.22458)
+- [MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935)
+- [Towards Effective GenAI Multi-Agent Collaboration: Design and Evaluation for Enterprise Applications](https://arxiv.org/abs/2412.05449)
 
 
 ### Fine-tuning for Text2SQL and Text2Cypher
