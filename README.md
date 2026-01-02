@@ -8,7 +8,7 @@
 - DPO: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
 - ORPO: [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691)
 - [A comparison of Self-Play Algorithms Under a Generalized Framework](https://arxiv.org/pdf/2006.04471)
-- DeepSeekMath with GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) -- [[notes](./papers/grpo.md)]
+- DeepSeekMath with GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) | [summary](papers/grpo.md)
 - DeepSeek-R1: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)   
 - DeepSeek-V3: [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)   
 - DeepSeek: [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
@@ -21,16 +21,23 @@
 - [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](https://arxiv.org/pdf/2507.10524)
 - [A MAMBA FOUNDATION MODEL FOR TIME SERIES FORECASTING](https://arxiv.org/pdf/2411.02941)
 - [Is Mamba Effective for Time Series Forecasting](https://arxiv.org/pdf/2411.02941)
+- [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
+- [DeepSeek-V3 architecture](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
+
+### Interpretability
+-    [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
+-    [Weight-sparse transformers have interpretable circuits](https://arxiv.org/pdf/2511.13653) | [summary](papers/openai_interpretable_circuit.md)
 
 
 ### LLM reasoning    
 - [Enhancing Reasoning to Adapt Large Language Models for Domain-Specific Applications](https://arxiv.org/pdf/2502.04384)
-- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) -- [[notes](https://www.linkedin.com/posts/yunfei-felix-bai-909b861_for-a-long-time-the-inner-workings-of-large-activity-7314371553020821504-7gNB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABaCZkBjRFlGTUWtb_PCnQmMW0bBukeXLw)]
+- [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) |[summary](https://www.linkedin.com/posts/yunfei-felix-bai-909b861_for-a-long-time-the-inner-workings-of-large-activity-7314371553020821504-7gNB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABaCZkBjRFlGTUWtb_PCnQmMW0bBukeXLw)
 - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 - [The Illusion of the Illusion of Thinking](https://arxiv.org/pdf/2506.09250v1)
 - [REASONING OR MEMORIZATION? UNRELIABLE RESULTS OF REINFORCEMENT LEARNING DUE TO DATA CONTAMINATION](https://arxiv.org/pdf/2507.10532)
 - [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/pdf/2504.13837)
 - [Chain of Thought Monitorability](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
+
 
 
 ### Agentic AI
@@ -39,8 +46,8 @@
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442)
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864)
 - [From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review](https://arxiv.org/pdf/2504.19678)  
-- [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)  -- [[notes](./papers/react.md)]
-- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366)  -- [[notes](./papers/reflexion.md)]
+- [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)  | [[summary](papers/react.md)]
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366) | [summary](./papers/reflexion.md)
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761)
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)  
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)
