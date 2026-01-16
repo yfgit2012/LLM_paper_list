@@ -22,8 +22,9 @@
 - [A MAMBA FOUNDATION MODEL FOR TIME SERIES FORECASTING](https://arxiv.org/pdf/2411.02941)
 - [Is Mamba Effective for Time Series Forecasting](https://arxiv.org/pdf/2411.02941)
 - [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
-- [DeepSeek-V3 architecture](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
-
+- [DeepSeek-V3 architecture: mHC](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
+- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary]()
+  
 ### Interpretability
 -    [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
 -    [Weight-sparse transformers have interpretable circuits](https://arxiv.org/pdf/2511.13653) | [summary](papers/openai_interpretable_circuit.md)
