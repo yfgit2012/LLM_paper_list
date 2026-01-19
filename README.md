@@ -14,8 +14,8 @@
 - DeepSeek: [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 - DeepSeek: [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)
 - Llama4: [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
-- DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476),[[repo](https://github.com/BytedTsinghua-SIA/DAPO)]
-- RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934)
+- DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476), [[repo](https://github.com/BytedTsinghua-SIA/DAPO)]
+- RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934), [[repo](https://github.com/thuml/RLVR-World)]
 
 
 ### LLM architecture 
