@@ -9,13 +9,13 @@
 - ORPO: [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691)
 - [A comparison of Self-Play Algorithms Under a Generalized Framework](https://arxiv.org/pdf/2006.04471)
 - DeepSeekMath with GRPO: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) | [summary](papers/grpo.md)
-- DeepSeek-R1: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)   
+- DeepSeek-R1: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948) | [summary](papers/deepseek_r1_update2026.md)
 - DeepSeek-V3: [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437v1)   
 - DeepSeek: [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)     
 - DeepSeek: [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://www.arxiv.org/pdf/2505.09343)
 - Llama4: [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
-- DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476), [[repo](https://github.com/BytedTsinghua-SIA/DAPO)]
-- RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934), [[repo](https://github.com/thuml/RLVR-World)]
+- DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476) | [[repo](https://github.com/BytedTsinghua-SIA/DAPO)]
+- RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934) | [summary](papers/rlvr-world.md) | [[repo](https://github.com/thuml/RLVR-World)]
 
 
 ### LLM architecture 
@@ -24,7 +24,7 @@
 - [Is Mamba Effective for Time Series Forecasting](https://arxiv.org/pdf/2411.02941)
 - [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
 - [DeepSeek-V3 architecture: mHC](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
-- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary]()
+- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary](papers/deepseek_engram.md)
 
   
 ### Interpretability
@@ -84,10 +84,7 @@
 ### Large World Model (LWM) 
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)    
 - [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243)    
-- [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)     
-- 
-
-
+- [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)      
 
 ### Fine-tuning Text2SQL and Text2Cypher
 - [Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)    
