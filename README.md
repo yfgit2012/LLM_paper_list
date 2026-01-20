@@ -40,6 +40,7 @@
 - [REASONING OR MEMORIZATION? UNRELIABLE RESULTS OF REINFORCEMENT LEARNING DUE TO DATA CONTAMINATION](https://arxiv.org/pdf/2507.10532)
 - [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/pdf/2504.13837)
 - [Chain of Thought Monitorability](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
+- [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)
 
 
 ### Agentic AI
