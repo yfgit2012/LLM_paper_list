@@ -16,8 +16,9 @@
 - Llama4: [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 - DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476) | [[repo](https://github.com/BytedTsinghua-SIA/DAPO)]
 - RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934) | [summary](papers/rlvr-world.md) | [[repo](https://github.com/thuml/RLVR-World)]
-- SEAL: [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943) | [web](https://jyopari.github.io/posts/seal) | [code repo](https://github.com/Continual-Intelligence/SEAL) | write its own training data, finetune itself, improve without human intervention
-- [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL)
+- SEAL: [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943) | [web](https://jyopari.github.io/posts/seal) | [code repo](https://github.com/Continual-Intelligence/SEAL) | ==> write its own training data, finetune itself, improve without human intervention
+- [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL) ==> improve scalability of transformers RL
+- [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000) ==> from Nvidia, self-feedback loop to GRPO, model drafts multiple solutions, picks the best one, and learn to refine.
 
 
 ### LLM architecture 
@@ -58,6 +59,7 @@
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)  
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657) | [code repo and dataset](https://github.com/multi-agent-systems-failure-taxonomy/MAST)
 - [Kimi K2: Open Agentic Intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
+- [Let It Flow: Agentic Crafting on Rock and Roll - Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873)
 
 
 ### Deep Research Agent 
@@ -72,6 +74,7 @@
 
 ### Coding Agent 
 - [From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/pdf/2511.18538)
+
 
 ### Agentic AI evaluation   
 - [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416)
@@ -90,7 +93,14 @@
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)    
 - [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243)    
 - [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
-- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> 
+- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> why transformers fail 
+
+### Multi-modality
+- [ViT-5: Vision Transformers for The Mid-2020s](https://www.arxiv.org/pdf/2602.08071) | [code repo](https://github.com/wangf3014/ViT-5) ==> new vision transformer model
+
+
+
+
 
 ### Fine-tuning Text2SQL and Text2Cypher
 - [Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement](https://arxiv.org/abs/2410.01869)    
