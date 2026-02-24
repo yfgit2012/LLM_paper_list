@@ -12,7 +12,12 @@
 - [CONTINUOUS AUTOREGRESSIVE LANGUAGE MODELS](https://arxiv.org/pdf/2510.27688v1)
 - [Beyond Tokens: Concept-Level Training Objectives for LLMs](https://arxiv.org/pdf/2601.11791v2)
 - [Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/pdf/2512.23587)
-
+- [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)
+- [Mining Generalizable Activation Functions](https://arxiv.org/pdf/2602.05688)
+- [DIRMOE: DIRICHLET-ROUTED MIXTURE OF EXPERTS](https://openreview.net/pdf?id=a15cDnzr6r)
+- [Joint Embedding Variational Bayes](https://arxiv.org/pdf/2602.05639)
+- 
+- 
 
 ### Reinforcement Learning and RFT
 - TRPO: [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477)
