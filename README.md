@@ -55,8 +55,8 @@
 - [REASONING OR MEMORIZATION? UNRELIABLE RESULTS OF REINFORCEMENT LEARNING DUE TO DATA CONTAMINATION](https://arxiv.org/pdf/2507.10532)
 - [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/pdf/2504.13837)
 - [Chain of Thought Monitorability](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
-- [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)
-2026
+- [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)      
+2026      
 - [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/large-language-model-reasoning-failures.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
 - [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4)|[summary](papers/) ==> summary missing
 - [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
