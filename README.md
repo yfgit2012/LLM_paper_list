@@ -4,8 +4,8 @@
 - [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](https://arxiv.org/pdf/2507.10524)
 - [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
 - [DeepSeek-V3 architecture: mHC](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
-- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary](papers/deepseek_engram.md)
-2026
+- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary](papers/deepseek_engram.md)       
+2026     
 - [The unreasonable effectiveness of pattern matching](https://arxiv.org/pdf/2601.11432v1)
 - [Recursive Language Models](https://arxiv.org/pdf/2512.24601v2)
 - [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943v2)
