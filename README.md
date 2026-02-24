@@ -44,8 +44,13 @@
 - [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/pdf/2504.13837)
 - [Chain of Thought Monitorability](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
 - [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)
-- [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) | [list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
-
+- [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/large-language-model-reasoning-failures.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
+- [LLMs are zero-shot reasoners]()|[summary](papers/2205.11916v4.pdf) ==> summary missing
+- [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
+- [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1.pdf)|[summary]()
+- [AgenticReasoningforLargeLanguageModels](https://arxiv.org/pdf/2601.12538v1.pdf)|[summary](papers/agentic-reasoning-for-large-language-models.md)
+- [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1.pdf)|[summary](papers/multiplex-thinking-reasoning-via-token-wise-branch-and-merge.md)
+- [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)
 
 ### Agentic AI
 - [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
