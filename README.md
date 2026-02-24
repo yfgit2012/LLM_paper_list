@@ -1,5 +1,19 @@
 # Generative AI Papers   
 
+### LLM architecture 
+- [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](https://arxiv.org/pdf/2507.10524)
+- [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
+- [DeepSeek-V3 architecture: mHC](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
+- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary](papers/deepseek_engram.md)
+2026
+- [The unreasonable effectiveness of pattern matching](https://arxiv.org/pdf/2601.11432v1)
+- [Recursive Language Models](https://arxiv.org/pdf/2512.24601v2)
+- [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943v2)
+- [CONTINUOUS AUTOREGRESSIVE LANGUAGE MODELS](https://arxiv.org/pdf/2510.27688v1)
+- [Beyond Tokens: Concept-Level Training Objectives for LLMs](https://arxiv.org/pdf/2601.11791v2)
+- [Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/pdf/2512.23587)
+
+
 ### Reinforcement Learning and RFT
 - TRPO: [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477)
 - PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347)
@@ -21,13 +35,6 @@
 - [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000) ==> from Nvidia, self-feedback loop to GRPO, model drafts multiple solutions, picks the best one, and learn to refine.
 
 
-### LLM architecture 
-- [Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](https://arxiv.org/pdf/2507.10524)
-- [A MAMBA FOUNDATION MODEL FOR TIME SERIES FORECASTING](https://arxiv.org/pdf/2411.02941)
-- [Is Mamba Effective for Time Series Forecasting](https://arxiv.org/pdf/2411.02941)
-- [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
-- [DeepSeek-V3 architecture: mHC](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
-- [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary](papers/deepseek_engram.md)
 
   
 ### Interpretability
@@ -44,13 +51,15 @@
 - [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model](https://arxiv.org/pdf/2504.13837)
 - [Chain of Thought Monitorability](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
 - [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)
+2026
 - [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/large-language-model-reasoning-failures.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
-- [LLMs are zero-shot reasoners]()|[summary](papers/2205.11916v4.pdf) ==> summary missing
+- [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4)|[summary](papers/) ==> summary missing
 - [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
-- [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1.pdf)|[summary]()
-- [AgenticReasoningforLargeLanguageModels](https://arxiv.org/pdf/2601.12538v1.pdf)|[summary](papers/agentic-reasoning-for-large-language-models.md)
-- [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1.pdf)|[summary](papers/multiplex-thinking-reasoning-via-token-wise-branch-and-merge.md)
-- [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)
+- [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1)|[summary](papers/large-language-models-have-achieved-remarkable-capabilities-across-domains-yet.md)
+- [Agentic Reasoning for Large Language Models](https://arxiv.org/pdf/2601.12538v1)|[summary](papers/agentic-reasoning-for-large-language-models.md)
+- [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1)|[summary](papers/multiplex-thinking-reasoning-via-token-wise-branch-and-merge.md)
+- [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)|[summary](/papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)
+
 
 ### Agentic AI
 - [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
@@ -94,11 +103,15 @@
 - [MedGemma Technical Report](https://arxiv.org/pdf/2507.05201)
 - [Mapping the susceptibility of large language models to medical misinformation acrossclinical notes and social media: a cross-sectional benchmarking analysis](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2825%2900131-1)  ==> AI not working for medical advice
 
+
 ### Large World Model (LWM) 
+- [A MAMBA FOUNDATION MODEL FOR TIME SERIES FORECASTING](https://arxiv.org/pdf/2411.02941)
+- [Is Mamba Effective for Time Series Forecasting](https://arxiv.org/pdf/2411.02941)
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)    
 - [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243)    
 - [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
 - [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> why transformers fail 
+
 
 ### Multi-modality
 - [ViT-5: Vision Transformers for The Mid-2020s](https://www.arxiv.org/pdf/2602.08071) | [code repo](https://github.com/wangf3014/ViT-5) ==> new vision transformer model
