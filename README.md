@@ -5,6 +5,7 @@
 - [Introducing Nested Learning: A new ML paradigm for continual learning](https://abehrouz.github.io/files/NL.pdf) | [summary](papers/Introducing_Nested_Learning.md)
 - [DeepSeek-V3 architecture: mHC](https://arxiv.org/pdf/2512.24880) | [summary](papers/deepseek_mhc.md)
 - [DeepSeek-V4 architecture: Engram](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)) | [summary](papers/deepseek_engram.md)       
+
 2026     
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916)[summary](/papers/2205.11916v4.md)
 - [The unreasonable effectiveness of pattern matching](https://arxiv.org/pdf/2601.11432v1)|[summary](/papers/2601.11432v1.md)
@@ -16,7 +17,7 @@
 - [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)|[summary](/papers/2502.01637v3.md)
 - [Mining Generalizable Activation Functions](https://arxiv.org/pdf/2602.05688)|[summary](/papers/2602.05688v1.md)
 - [DIRMOE: DIRICHLET-ROUTED MIXTURE OF EXPERTS](https://openreview.net/pdf?id=a15cDnzr6r)|[summary](/papers/11538_DirMoE_Dirichlet_Routed_.md)
-- [Joint Embedding Variational Bayes](https://arxiv.org/pdf/2602.05639)|[summary](/papers/) ==>
+- [Joint Embedding Variational Bayes](https://arxiv.org/pdf/2602.05639)|[summary](/papers/) ===>
 - [LUCID: Attention with Preconditioned Representations](https://www.arxiv.org/pdf/2602.10410)|[summary](/papers/2602.10410v1.md)
 - [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)|[summary](/papers/2510.06477v2.md)
 - [In-Context Learning Without Copying](https://arxiv.org/pdf/2511.05743)|[summary](/papers/2511.05743v2.md)
@@ -93,7 +94,7 @@
 - [Replicating Human Motivated Reasoning Studies with LLMs](https://arxiv.org/pdf/2601.16130)|[summary](/papers/2601.16130v1.md)
 - [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL)|[summary](/papers/2602.01439v1.md) 
 - [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/pdf/2511.19399)|[summary](/papers/2511.19399v2.md)
-- [CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/pdf/2602.12268)|[summary](/papers/)
+- [CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/pdf/2602.12268)|[summary](/papers/2602.12268v2.md)
 - [AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](https://arxiv.org/pdf/2410.02355)|[summary](/papers/2410.02355v4.md)
 - [The Magic Correlations: Understanding Knowledge Transfer from Pretraining to Supervised Fine-Tuning](https://arxiv.org/pdf/2602.11217)|[summary](/papers/2602.11217v1.md)
 - [Intrinsic Credit Assignment for Long Horizon Interaction](https://www.alphaxiv.org/abs/intrinsic-credit-assignment)|[summary](/papers/IntrinsicCreditAssignmentforLongHorizonInteraction.md)
@@ -105,7 +106,7 @@
 - [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/pdf/2507.17746)|[summary](/papers/2507.17746v2.md)
 - [Robust Policy Optimization to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/2602.08813)|[summary](/papers/2602.08813v1.md)
 - [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/pdf/2601.18734)|[summary](/papers/2601.18734v1.md)
-- [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/)
+- [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/2601.18217v1.md)
 - [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)  |[summary](/papers/2602.04770v2.md)
 - [Small Reward Models via Backward Inference](https://arxiv.org/pdf/2602.13551) |[summary](/papers/2602.13551v1.md)
 - [CodeScaler: Scaling Code LLM Training and Test-Time Inference via Execution-Free Reward Models](https://arxiv.org/pdf/2602.17684) |[summary](/papers/2602.17684v1.md)
@@ -129,7 +130,7 @@
 2026      
 - [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/2602.06176v1.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) 
 - [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4) | [summary](papers/2205.11916v4.md)
-- [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
+- [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/2512.14982v1)|[summary](papers/2512.14982v1.md)
 - [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1)|[summary](papers/2601.10825v1.md)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/pdf/2601.12538v1)|[summary](papers/2601.12538v1.md)
 - [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1)|[summary](papers/2601.08808v1.md)
@@ -203,7 +204,7 @@
 - [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> why transformers fail     
 
 2026     
-- [Statistical approximation is not general intelligence](https://www.nature.com/articles/d41586-026-00495-y) | [summary](papers/.md)
+- [Statistical approximation is not general intelligence](https://www.nature.com/articles/d41586-026-00495-y) | [summary](papers/Statistical-approximation_is_not_general_intelligence.md)
 - [Do generative video models understand physical principles?](https://arxiv.org/pdf/2501.09038) | [summary](papers/2501.09038v3.md)
 - [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures](https://arxiv.org/pdf/2509.14252) | [summary](papers/2509.14252v2.md)
 - [Tiny Recursive Reasoning with Mamba-2 Attention Hybrid](https://arxiv.org/pdf/2602.12078) | [summary](papers/2602.12078v1.md)
