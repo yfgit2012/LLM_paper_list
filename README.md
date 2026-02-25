@@ -56,8 +56,8 @@
 - DAPO: [DAPO: An Open-Source LLM Reinforcement LearningSystem at Scale](https://arxiv.org/pdf/2503.14476) | [[repo](https://github.com/BytedTsinghua-SIA/DAPO)]
 - RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934) | [summary](papers/rlvr-world.md) | [[repo](https://github.com/thuml/RLVR-World)]
 - SEAL: [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943) | [web](https://jyopari.github.io/posts/seal) | [code repo](https://github.com/Continual-Intelligence/SEAL) | ==> write its own training data, finetune itself, improve without human intervention
-- [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL) ==> improve scalability of transformers RL
-- [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000) ==> from Nvidia, self-feedback loop to GRPO, model drafts multiple solutions, picks the best one, and learn to refine.               
+
+         
 2026
 - [Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897)|[summary](/papers/2601.19897v1.md)
 - [Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful](https://arxiv.org/pdf/2507.07101)|[summary](/papers/)
@@ -67,12 +67,47 @@
 - [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://arxiv.org/pdf/2602.02488)|[summary](/papers/)
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/pdf/2602.04879)|[summary](/papers/)
 - [Test-time Recursive Thinking: Self-Improvement without External Feedback](https://arxiv.org/pdf/2602.03094)|[summary](/papers/)
+- [Reinforced Attention Learning](https://arxiv.org/pdf/2602.04884)|[summary](/papers/)
+- [Privileged Information Distillation for Language Models](https://arxiv.org/pdf/2602.04942)|[summary](/papers/)
+- [FINE-TUNING WITH RAG FOR IMPROVING LLM LEARNING OF NEW SKILLS](https://arxiv.org/pdf/2510.01375)|[summary](/papers/)
+- [Rewards as Labels: Revisiting RLVR from a Classification Perspective](https://arxiv.org/pdf/2602.05630)|[summary](/papers/)
+- [Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks](https://arxiv.org/pdf/2602.05125)|[summary](/papers/)
+- [Maximum Likelihood Reinforcement Learning](https://arxiv.org/pdf/2602.02710)|[website](https://zanette-labs.github.io/MaxRL/)|[summary](/papers/)
+- [RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation](https://arxiv.org/pdf/2602.01789)|[website](https://entongsu.github.io/rfs/)|[summary](/papers/)
+- [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](https://arxiv.org/pdf/2602.05547)|[summary](/papers/)
+- [Experiential Reinforcement Learning](https://www.arxiv.org/pdf/2602.13949)|[summary](/papers/)
+- [Training-Free Group Relative Policy Optimization](https://arxiv.org/pdf/2510.08191)|[summary](/papers/)
+- [Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings](https://arxiv.org/pdf/2602.13823)|[summary](/papers/)
+- [Learning to Reason in 13 Parameters](https://arxiv.org/pdf/2602.04118)|[summary](/papers/)
+- [Generative Reasoning Re-ranker](https://arxiv.org/pdf/2602.07774)|[summary](/papers/)
+- [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/pdf/2602.08234)|[summary](/papers/)
+- [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802)|[summary](/papers/)
+- [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)|[summary](/papers/)
+- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)|[summary](/papers/)
+- [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000)|[summary](/papers/) ==> from Nvidia, self-feedback loop to GRPO, model drafts multiple solutions, picks the best one, and learn to refine.
+- [Replicating Human Motivated Reasoning Studies with LLMs](https://arxiv.org/pdf/2601.16130)|[summary](/papers/)
+- [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL)|[summary](/papers/) ==> improve scalability of transformers RL
+- [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/pdf/2511.19399)|[summary](/papers/)
+- [CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/pdf/2602.12268)|[summary](/papers/)
+- [AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](https://arxiv.org/pdf/2410.02355)|[summary](/papers/)
+- [The Magic Correlations: Understanding Knowledge Transfer from Pretraining to Supervised Fine-Tuning](https://arxiv.org/pdf/2602.11217)|[summary](/papers/)
+- [Intrinsic Credit Assignment for Long Horizon Interaction](https://www.alphaxiv.org/abs/intrinsic-credit-assignment)|[summary](/papers/)
+- [The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/pdf/2601.06002)|[summary](/papers/)
+- [Learning Personalized Agents from Human Feedback](https://arxiv.org/pdf/2602.16173)|[summary](/papers/)
+- [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](https://arxiv.org/pdf/2602.14486)|[summary](/papers/)
+- [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/pdf/2503.20783)|[summary](/papers/)
+- [On-Policy Context Distillation for Language Models](https://arxiv.org/pdf/2602.12275)|[summary](/papers/)
+- [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/pdf/2507.17746)|[summary](/papers/)
+- [Robust Policy Optimization to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/2602.08813)|[summary](/papers/)
+- [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/pdf/2601.18734)|[summary](/papers/)
+- [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/)
+- [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)|[summary](/papers/)
 
 
-  
 ### Interpretability
 -    [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
 -    [Weight-sparse transformers have interpretable circuits](https://arxiv.org/pdf/2511.13653) | [summary](papers/openai_interpretable_circuit.md)
+-    
 
 
 ### LLM reasoning    
