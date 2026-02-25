@@ -106,9 +106,9 @@
 
 
 ### Interpretability
--    [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
--    [Weight-sparse transformers have interpretable circuits](https://arxiv.org/pdf/2511.13653) | [summary](papers/openai_interpretable_circuit.md)
--    
+- [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
+- [Weight-sparse transformers have interpretable circuits](https://arxiv.org/pdf/2511.13653) | [summary](papers/openai_interpretable_circuit.md)
+- [TensorLens: end-to-end transformer analysis via high-order attention tensors](https://www.alphaxiv.org/abs/2601.17958) | [summary](papers/.md)
 
 
 ### LLM reasoning    
@@ -122,7 +122,7 @@
 - [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)      
 2026      
 - [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/large-language-model-reasoning-failures.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
-- [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4)|[summary](papers/2205.11916v4.md) ==> summary missing
+- [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4) | [summary](papers/2205.11916v4.md)
 - [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
 - [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1)|[summary](papers/2601.10825v1.md)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/pdf/2601.12538v1)|[summary](papers/2601.12538v1.md)
@@ -143,7 +143,18 @@
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)  
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657) | [code repo and dataset](https://github.com/multi-agent-systems-failure-taxonomy/MAST)
 - [Kimi K2: Open Agentic Intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
-- [Let It Flow: Agentic Crafting on Rock and Roll - Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873)
+ 
+
+2026
+- [Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/pdf/2601.14192) | [summary](papers/.md)
+- [Grounding Agent Memory in Contextual Intent](https://arxiv.org/pdf/2601.10702) | [summary](papers/.md)
+- [A Large-Scale Study on the Development and Issues of Multi-Agent AI Systems](https://arxiv.org/pdf/2601.07136)  | [summary](papers/.md)
+- [https://arxiv.org/pdf/2601.07711](https://arxiv.org/pdf/2601.07711)  | [summary](papers/.md)
+- [Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale](https://arxiv.org/pdf/2601.10338) | [summary](papers/.md)
+- [Scaling Small Agents Through Strategy Auctions](https://arxiv.org/pdf/2602.02751) | [summary](papers/.md)
+- [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/pdf/2602.12670) | [summary](papers/.md)
+- [Let It Flow: Agentic Crafting on Rock and Roll - Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873) | [summary](papers/.md)
+- [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](https://arxiv.org/pdf/2510.24702) | [summary](papers/.md)
 
 
 ### Deep Research Agent 
@@ -180,13 +191,18 @@
 - [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)    
 - [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243)    
 - [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
-- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> why transformers fail 
+- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> why transformers fail     
 
+2026     
+- [Statistical approximation is not general intelligence](https://www.nature.com/articles/d41586-026-00495-y) | [summary](papers/.md)
+- [Do generative video models understand physical principles?](https://arxiv.org/pdf/2501.09038) | [summary](papers/.md)
+- [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures](https://arxiv.org/pdf/2509.14252) | [summary](papers/.md)
+- [Tiny Recursive Reasoning with Mamba-2 Attention Hybrid](https://arxiv.org/pdf/2602.12078) | [summary](papers/.md)
+- [Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/pdf/2602.15012) | [summary](papers/.md)
+- [Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control](https://arxiv.org/pdf/2602.13193) | [website](https://steerable-policies.github.io/)  | [summary](papers/.md)
 
 ### Multi-modality
 - [ViT-5: Vision Transformers for The Mid-2020s](https://www.arxiv.org/pdf/2602.08071) | [code repo](https://github.com/wangf3014/ViT-5) ==> new vision transformer model
-
-
 
 
 
