@@ -36,7 +36,8 @@
 - [LoopViT: Scaling Visual ARC with Looped Transformers](https://arxiv.org/pdf/2602.02156)|[summary](/papers/2602.02156v1.md)
 - [Unified Latents (UL): How to train your latents](https://www.alphaxiv.org/overview/2602.17270)|[summary](/papers/Unified Latents (UL)_ How to train your latents.md)
 - [Chatting with an LLM-based AI elicits affective and cognitive processes in education for sustainable development](https://www.nature.com/articles/s41598-026-39317-6)|[summary](/papers/s41598-026-39317-6.md)
-- [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)
+- [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)|[summary](/papers/)
+- [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)|[summary](/papers/2502.01637v3.md)
 
 
 ### Training, RL and RFT
@@ -121,12 +122,13 @@
 - [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)      
 2026      
 - [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/large-language-model-reasoning-failures.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
-- [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4)|[summary](papers/) ==> summary missing
+- [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4)|[summary](papers/2205.11916v4.md) ==> summary missing
 - [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
 - [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1)|[summary](papers/large-language-models-have-achieved-remarkable-capabilities-across-domains-yet.md)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/pdf/2601.12538v1)|[summary](papers/agentic-reasoning-for-large-language-models.md)
 - [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1)|[summary](papers/multiplex-thinking-reasoning-via-token-wise-branch-and-merge.md)
-- [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)|[summary](/papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)
+- [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/thinkingfast-slow-and-artificial-how-ai-is-reshaping-human-reasoning-and-the.md)
+- [Training Large Language Models to Reasonina Continuous Latent Space](https://arxiv.org/pdf/2412.06769)[summary](papers/2412.06769v3.md)
 
 
 ### Agentic AI
