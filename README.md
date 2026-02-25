@@ -38,6 +38,7 @@
 - [Chatting with an LLM-based AI elicits affective and cognitive processes in education for sustainable development](https://www.nature.com/articles/s41598-026-39317-6)|[summary](/papers/s41598-026-39317-6.md)
 - [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)|[summary](/papers/)
 - [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)|[summary](/papers/2502.01637v3.md)
+- [STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts](https://arxiv.org/pdf/2602.14265) |[summary](/papers/)
 
 
 ### Training, RL and RFT
@@ -102,7 +103,8 @@
 - [Robust Policy Optimization to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/2602.08813)|[summary](/papers/2602.08813)v1.md)
 - [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/pdf/2601.18734)|[summary](/papers/2601.18734v1.md)
 - [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/)
-- [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)|[summary](/papers/)
+- [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)  |[summary](/papers/)
+- [Small Reward Models via Backward Inference](https://arxiv.org/pdf/2602.13551) |[summary](/papers/)
 
 
 ### Interpretability
