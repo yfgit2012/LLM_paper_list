@@ -1,124 +1,54 @@
-The document outlines a comprehensive approach to training a model for the 20 Questions game, emphasizing data curation, training strategies, and hyperparameter optimization. Here's a structured breakdown of its key components and insights:
+## Summary
+- **Objective**: To develop an effective model for the 20 Questions game by focusing on data curation, supervised fine-tuning (SFT), reinforcement learning (RL) adaptations, and policy optimization techniques to ensure solvability and efficiency in multi-turn interactions.  
+- **Methodologies**:  
+  - **Data Curation**: Selected words from Google’s Trillion Word Corpus, filtered using LLMs (Grok 3 m, Gemini 2.0 Flash) for solvability, and split into training, validation, and test sets.  
+  - **SFT**: Trained on 341 high-quality sequences with masked context, using ADAMW optimizer and cosine decay learning rates.  
+  - **RL Adaptation**: Modified GRPO (Group Relative Policy Optimization) with token masking, asymmetric clipping, per-turn advantage estimation, and reward-based learning.  
+  - **Ablation Studies**: Evaluated aggregation methods (e.g., seq-mean-token-mean) and learning rates (e.g., 3e-5) to optimize GRPO performance.  
+- **Results**:  
+  - Data curation with Gemini 2.0 Flash ensured high-quality, solvable words (4,678 total).  
+  - Single-turn SFT with masked context improved performance compared to multi-turn training.  
+  - GRPO enhancements (asymmetric clipping, per-turn advantage estimation) enhanced stability and performance.  
+  - seq-mean-token-mean aggregation with 3e-5 learning rates achieved the best accuracy (24.36%) for Qwen3-1.7B and Qwen3-4B models.  
+- **Key Contributions**:  
+  - Novel data curation pipeline integrating LLM-based solvability checks.  
+  - Modified GRPO for multi-turn RL with token masking and asymmetric clipping.  
+  - Empirical insights on aggregation methods and hyperparameters for RL training.  
+  - Framework balancing data quality, training efficiency, and policy optimization for interactive tasks.  
+- **Conclusions**: The approach demonstrates a robust framework for training models in multi-turn environments, emphasizing the importance of data quality, context masking, and policy optimization. Future work could focus on iterative curriculum learning with edge-case secrets to further improve performance.  
 
----
-
-### **1. Data Curation for 20Qs**
-- **Secret Words Selection**:  
-  - Words are sourced from Google’s Trillion Word Corpus, filtered to select the 10,000 most common nouns.  
-  - A Grok 3 m LLM (as a judge) further filters words to ensure they are solvable in the game.  
-  - **Validation**: 32 iterations of 20 Questions with Gemini 2.0 Flash are conducted to discard words that cannot be solved, resulting in **4,678 valid words**.  
-  - **Splitting**: Dataset is divided into:  
-    - **Validation**: 238 words  
-    - **Test**: 487 words  
-    - **Training**: 3,953 words (341 for SFT, 3,612 for RL).  
-    - **Final Training Set**: 1,000 words (neither too hard nor too easy) for RL experiments.
-
----
-
-### **2. SFT (Supervised Fine-Tuning) Settings**
-- **Training Data**:  
-  - 341 words are used, with **Gemini 2.0 Flash**'s successful game sequences (lowest turns) selected as training examples.  
-  - **Total Sequences**: 562 (including ties in turn counts).  
-- **Training Method**:  
-  - Trajectories are split into individual turns, with **context masking** (prompts, chat tokens, previous questions, judge responses) to focus only on the final question.  
-  - **Single-Turn Training**: Outperforms multi-turn training due to hybrid chat templates and reduced off-policy gaps.  
-  - **Hyperparameters**:  
-    - 2 epochs with cosine decay, max learning rate 1e-5, 10% warm-up.  
-    - ADAMW optimizer (weight decay 0.01, β₁=0.9, β₂=0.95).  
-    - Global batch size: 256, max tokens per sequence: 650.
-
----
-
-### **3. GRPO (Group Relative Policy Optimization) Settings**
-- **Adaptations for Multi-Turn RL**:  
-  - **Token Masking**: Masks environment-generated tokens to train only on the agent's outputs.  
-  - **KL Divergence Omission**: Excluded KL penalty as it didn’t improve performance.  
-  - **Asymmetric Clipping**: Uses a range of [0.2, 0.28] for policy updates to balance stability and exploration.  
-  - **Per-Turn Advantage Estimation**: Calculates advantages per turn to reduce variance and improve credit assignment for specific actions.
-
----
-
-### **4. Ablation Studies (StarPO Baselines)**
-- **Key Findings**:  
-  - **Aggregation Method**: `seq-mean-token-mean` outperformed `token-mean` in both 1.7B and 4B models.  
-  - **Learning Rate**: Higher learning rates (3e-5) yielded better results than 1e-5, especially for the 4B model.  
-  - **Results**:  
-    - **STARPO-1.7B**: Best accuracy 15.85% (3e-5 LR).  
-    - **STARPO-4B**: Best accuracy 24.36% (3e-5 LR).  
-  - **Implications**: Aggregation strategy and learning rate tuning are critical for optimizing model performance.
-
----
-
-### **5. Practical Implications**
-- **Curriculum Learning**: Iteratively incorporating edge-case secrets (words at the agent’s capacity limit) could further improve performance.  
-- **Efficiency**: The final training set (1,000 words) balances difficulty, ensuring models are neither too easy nor too hard to train.  
-- **Scalability**: The approach is adaptable to other multi-turn tasks, leveraging GRPO and SFT for robust policy optimization.
-
----
-
-### **Summary**
-This document details a meticulous pipeline for training a model to master the 20 Questions game. By combining rigorous data curation, tailored SFT strategies, and GRPO adaptations, the authors achieve efficient and effective training. The ablation studies highlight the importance of hyperparameter tuning and aggregation methods, offering actionable insights for similar reinforcement learning tasks.
+## Title and Authors (Required)  
+**Title**: A Comprehensive Approach to Training a Model for the 20 Questions Game  
+**Authors**: Not specified in the provided text.  
+**Affiliations**: Not specified in the provided text.
 
 ===============
 
 ## 中文翻译
 
-### **1. 20Qs 数据整理**
-- **秘密词语选择**：  
-  - 词语来源于 Google 的万亿词语料库，筛选出 10,000 个最常见的名词。  
-  - 通过 Grok 3 m 大语言模型（作为裁判）进一步筛选，确保词语能够在游戏中被解答。  
-  - **验证**：进行 32 轮 20 个问题游戏，使用 Gemini 2.0 Flash 排除无法解答的词语，最终得到 **4,678 个有效词语**。  
-  - **数据集划分**：  
-    - **验证集**：238 个词语  
-    - **测试集**：487 个词语  
-    - **训练集**：3,953 个词语（其中 341 个用于监督微调，3,612 个用于强化学习）。  
-    - **最终训练集**：1,000 个词语（难度适中，既不难也不易）用于强化学习实验。
+## 摘要
+- **目标**：通过聚焦数据整理、监督微调（SFT）、强化学习（RL）适应性及策略优化技术，开发一种高效的20个问题游戏模型，以确保多轮交互中的可解性和效率。  
+- **方法**：  
+  - **数据整理**：从谷歌的万亿词语料库中选取词语，利用大语言模型（Grok 3 m、Gemini 2.0 Flash）进行可解性筛选，并划分为训练集、验证集和测试集。  
+  - **监督微调（SFT）**：基于341个高质量掩码上下文序列进行训练，采用ADAMW优化器和余弦衰减学习率。  
+  - **强化学习适应性**：改进GRPO（组相对策略优化），引入令牌掩码、非对称裁剪、回合级优势估计和基于奖励的学习。  
+  - **消融研究**：评估聚合方法（如seq-mean-token-mean）和学习率（如3e-5）以优化GRPO性能。  
+- **结果**：  
+  - 使用Gemini 2.0 Flash进行数据整理确保了高质量且可解的词语（共4,678个）。  
+  - 掩码上下文的单轮SFT相较于多轮训练提升了性能。  
+  - GRPO改进（非对称裁剪、回合级优势估计）增强了稳定性和性能。  
+  - 采用seq-mean-token-mean聚合方法和3e-5学习率，在Qwen3-1.7B和Qwen3-4B模型中实现了最佳准确率（24.36%）。  
+- **关键贡献**：  
+  - 集成基于大语言模型可解性检查的新数据整理流程。  
+  - 针对多轮强化学习改进GRPO，引入令牌掩码和非对称裁剪。  
+  - 关于聚合方法和超参数的实证见解，用于强化学习训练。  
+  - 平衡数据质量、训练效率和策略优化的框架，适用于交互任务。  
+- **结论**：该方法展示了在多轮环境中训练模型的稳健框架，强调了数据质量、上下文掩码和策略优化的重要性。未来工作可聚焦于结合边缘案例秘密的迭代课程学习以进一步提升性能。  
 
----
-
-### **2. 监督微调（SFT）设置**
-- **训练数据**：  
-  - 使用 341 个词语，选取 Gemini 2.0 Flash 的成功游戏序列（最少回合数）作为训练示例。  
-  - **总序列数**：562（包括回合数相同的情况）。  
-- **训练方法**：  
-  - 将轨迹拆分为单个回合，通过 **上下文掩码**（提示、聊天标记、之前的问题、裁判回答）仅关注最终问题。  
-  - **单回合训练**：由于混合聊天模板和减少离策略偏差，表现优于多回合训练。  
-  - **超参数**：  
-    - 2 轮训练，余弦衰减，最大学习率 1e-5，10% 预热。  
-    - ADAMW 优化器（权重衰减 0.01，β₁=0.9，β₂=0.95）。  
-    - 全局批大小：256，每序列最大标记数：650。
-
----
-
-### **3. GRPO（群体相对策略优化）设置**
-- **多回合强化学习的适应**：  
-  - **标记掩码**：掩码环境生成的标记，仅训练代理的输出。  
-  - **KL 散度省略**：排除 KL 惩罚，因其未提升性能。  
-  - **非对称裁剪**：使用 [0.2, 0.28] 范围进行策略更新，平衡稳定性与探索。  
-  - **每回合优势估计**：计算每回合的优势，以减少方差并改进特定动作的归因。
-
----
-
-### **4. 消融研究（StarPO 基线）**
-- **关键发现**：  
-  - **聚合方法**：`seq-mean-token-mean` 在 1.7B 和 4B 模型中均优于 `token-mean`。  
-  - **学习率**：较高学习率（3e-5）比 1e-5 表现更好，尤其是对 4B 模型。  
-  - **结果**：  
-    - **STARPO-1.7B**：最佳准确率 15.85%（3e-5 学习率）。  
-    - **STARPO-4B**：最佳准确率 24.36%（3e-5 学习率）。  
-  - **启示**：聚合策略和学习率调优对优化模型性能至关重要。
-
----
-
-### **5. 实践启示**
-- **课程学习**：逐步引入边缘案例秘密（代理能力极限的词语）可能进一步提升性能。  
-- **效率**：最终训练集（1,000 个词语）平衡了难度，确保模型既不难也不易训练。  
-- **可扩展性**：该方法可适应其他多回合任务，利用 GRPO 和 SFT 实现稳健的策略优化。
-
----
-
-### **总结**
-本文详细介绍了训练模型掌握 20 个问题游戏的精密流程。通过结合严谨的数据整理、定制化的 SFT 策略和 GRPO 适应，作者实现了高效且有效的训练。消融研究突显了超参数调优和聚合方法的重要性，为类似强化学习任务提供了可操作的见解。
+## 标题与作者（必填）  
+**标题**：一种用于20个问题游戏模型训练的综合方法  
+**作者**：提供的文本中未指定。  
+**所属机构**：提供的文本中未指定。
 
 #### Reference: 
 
