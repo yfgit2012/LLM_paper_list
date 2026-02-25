@@ -41,7 +41,7 @@
 - [STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts](https://arxiv.org/pdf/2602.14265) |[summary](/papers/)
 - [Towards a Principled Muon under μ\mathsf{P}: Ensuring Spectral Conditions throughout Training](https://arxiv.org/pdf/2601.01306)|[summary](/papers/)
 - [The Platonic Representation Hypothesis](https://arxiv.org/pdf/2405.07987)  |[summary](/papers/)
-
+- [Intelligent AI Delegation](https://arxiv.org/pdf/2602.11865) |[summary](/papers/)
 
 
 ### Training, RL and RFT
@@ -108,7 +108,8 @@
 - [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/)
 - [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)  |[summary](/papers/)
 - [Small Reward Models via Backward Inference](https://arxiv.org/pdf/2602.13551) |[summary](/papers/)
-
+- [CodeScaler: Scaling Code LLM Training and Test-Time Inference via Execution-Free Reward Models](https://arxiv.org/pdf/2602.17684) |[summary](/papers/)
+- [Learning Without Training](https://arxiv.org/pdf/2602.17985) |[summary](/papers/)
 
 ### Interpretability
 - [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
@@ -136,6 +137,7 @@
 - [Training Large Language Models to Reasonina Continuous Latent Space](https://arxiv.org/pdf/2412.06769)[summary](papers/2412.06769v.md)
 - [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/pdf/2602.08354) | [[summary](papers/react.md)]
 
+
 ### Agentic AI
 - [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
 - [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/pdf/2406.04692)
@@ -148,7 +150,6 @@
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)  
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657) | [code repo and dataset](https://github.com/multi-agent-systems-failure-taxonomy/MAST)
 - [Kimi K2: Open Agentic Intelligence](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
- 
 
 2026
 - [Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/pdf/2601.14192) | [summary](papers/.md)
@@ -161,7 +162,7 @@
 - [Let It Flow: Agentic Crafting on Rock and Roll - Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873) | [summary](papers/.md)
 - [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](https://arxiv.org/pdf/2510.24702) | [summary](papers/.md)
 - [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](https://arxiv.org/pdf/2602.12662) | [summary](papers/.md)
-- 
+- [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/.md)
 
 
 ### Deep Research Agent 
