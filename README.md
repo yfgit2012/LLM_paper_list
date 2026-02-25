@@ -16,8 +16,26 @@
 - [Mining Generalizable Activation Functions](https://arxiv.org/pdf/2602.05688)
 - [DIRMOE: DIRICHLET-ROUTED MIXTURE OF EXPERTS](https://openreview.net/pdf?id=a15cDnzr6r)
 - [Joint Embedding Variational Bayes](https://arxiv.org/pdf/2602.05639)
-- 
-- 
+- [LUCID: Attention with Preconditioned Representations](https://www.arxiv.org/pdf/2602.10410)
+- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)
+- [In-Context Learning Without Copying](https://arxiv.org/pdf/2511.05743)
+- [Discovering Differences in Strategic Behavior between Humans and LLMs](https://arxiv.org/pdf/2602.10324)
+- [Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning](https://arxiv.org/pdf/2602.11748)
+- [Learning a Generative Meta-Model of LLM Activations](https://www.arxiv.org/pdf/2602.06964)
+- [LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss](https://arxiv.org/pdf/2602.12005)
+- [Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models](https://arxiv.org/pdf/2602.08984)
+- [Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens](https://arxiv.org/pdf/2602.13517)
+- [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/pdf/2602.07055)
+- [Attention, Please! Revisiting Attentive Probing Through the Lens of Efficiency](https://arxiv.org/pdf/2506.10178)
+- [LLMs Get Lost In Multi-Turn Conversation](https://arxiv.org/pdf/2505.06120)
+- [Intelligent AI Delegation](https://arxiv.org/pdf/2602.11865)
+- [Cartridges: Lightweight and general-purpose long context representations via self-study](https://arxiv.org/pdf/2506.06266)
+- [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/pdf/2509.01092)
+- [SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://arxiv.org/pdf/2602.13515)
+- [LoopViT: Scaling Visual ARC with Looped Transformers](https://arxiv.org/pdf/2602.02156)
+- [Unified Latents (UL): How to train your latents](https://www.alphaxiv.org/overview/2602.17270)
+- [Chatting with an LLM-based AI elicits affective and cognitive processes in education for sustainable development](https://www.nature.com/articles/s41598-026-39317-6)
+
 
 ### Reinforcement Learning and RFT
 - TRPO: [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477)
@@ -37,7 +55,9 @@
 - RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934) | [summary](papers/rlvr-world.md) | [[repo](https://github.com/thuml/RLVR-World)]
 - SEAL: [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943) | [web](https://jyopari.github.io/posts/seal) | [code repo](https://github.com/Continual-Intelligence/SEAL) | ==> write its own training data, finetune itself, improve without human intervention
 - [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL) ==> improve scalability of transformers RL
-- [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000) ==> from Nvidia, self-feedback loop to GRPO, model drafts multiple solutions, picks the best one, and learn to refine.
+- [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000) ==> from Nvidia, self-feedback loop to GRPO, model drafts multiple solutions, picks the best one, and learn to refine.               
+2026
+- [Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897)
 
 
 
