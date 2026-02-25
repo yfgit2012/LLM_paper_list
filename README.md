@@ -34,7 +34,7 @@
 - [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/pdf/2509.01092)|[summary](/papers/2509.01092v2.md)
 - [SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://arxiv.org/pdf/2602.13515)|[summary](/papers/2602.13515v1.md)
 - [LoopViT: Scaling Visual ARC with Looped Transformers](https://arxiv.org/pdf/2602.02156)|[summary](/papers/2602.02156v1.md)
-- [Unified Latents (UL): How to train your latents](https://www.alphaxiv.org/overview/2602.17270)|[summary](/papers/.md)
+- [Unified Latents (UL): How to train your latents](https://www.alphaxiv.org/overview/2602.17270)|[summary](/papers/Unified Latents (UL)_ How to train your latents.md)
 - [Chatting with an LLM-based AI elicits affective and cognitive processes in education for sustainable development](https://www.nature.com/articles/s41598-026-39317-6)|[summary](/papers/s41598-026-39317-6.md)
 - [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)|[summary](/papers/2601.18778v2.md)
 - [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)|[summary](/papers/2502.01637v3.md)
@@ -102,7 +102,7 @@
 - [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](https://arxiv.org/pdf/2602.14486)|[summary](/papers/2602.14486v1.md)
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/pdf/2503.20783)|[summary](/papers/2503.20783v2.md)
 - [On-Policy Context Distillation for Language Models](https://arxiv.org/pdf/2602.12275)|[summary](/papers/2602.12275v1.md)
-- [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/pdf/2507.17746)|[summary](/papers/)
+- [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/pdf/2507.17746)|[summary](/papers/2507.17746v2.md)
 - [Robust Policy Optimization to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/2602.08813)|[summary](/papers/2602.08813)v1.md)
 - [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/pdf/2601.18734)|[summary](/papers/2601.18734v1.md)
 - [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/)
@@ -114,7 +114,7 @@
 ### Interpretability
 - [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
 - [Weight-sparse transformers have interpretable circuits](https://arxiv.org/pdf/2511.13653) | [summary](papers/openai_interpretable_circuit.md)
-- [TensorLens: end-to-end transformer analysis via high-order attention tensors](https://www.alphaxiv.org/abs/2601.17958) | [summary](papers/.md)
+- [TensorLens: end-to-end transformer analysis via high-order attention tensors](https://www.alphaxiv.org/abs/2601.17958) | [summary](papers/TensorLens_End-to-EndTransformerAnalysisviaHigh-OrdeAttentionTensors.md)
 
 
 ### LLM reasoning    
