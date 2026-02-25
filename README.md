@@ -16,9 +16,9 @@
 - [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)|[summary](/papers/2502.01637v3.md)
 - [Mining Generalizable Activation Functions](https://arxiv.org/pdf/2602.05688)|[summary](/papers/2602.05688v1.md)
 - [DIRMOE: DIRICHLET-ROUTED MIXTURE OF EXPERTS](https://openreview.net/pdf?id=a15cDnzr6r)|[summary](/papers/11538_DirMoE_Dirichlet_Routed_.md)
-- [Joint Embedding Variational Bayes](https://arxiv.org/pdf/2602.05639)|[summary](/papers/)
+- [Joint Embedding Variational Bayes](https://arxiv.org/pdf/2602.05639)|[summary](/papers/) ==>
 - [LUCID: Attention with Preconditioned Representations](https://www.arxiv.org/pdf/2602.10410)|[summary](/papers/2602.10410v1.md)
-- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)|[summary](/papers/2510.06477v2.mc)
+- [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)|[summary](/papers/2510.06477v2.md)
 - [In-Context Learning Without Copying](https://arxiv.org/pdf/2511.05743)|[summary](/papers/2511.05743v2.md)
 - [Discovering Differences in Strategic Behavior between Humans and LLMs](https://arxiv.org/pdf/2602.10324)|[summary](/papers/2602.10324v1.md)
 - [Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning](https://arxiv.org/pdf/2602.11748)|[summary](/papers/2602.11748v1.md)
@@ -77,7 +77,7 @@
 - [FINE-TUNING WITH RAG FOR IMPROVING LLM LEARNING OF NEW SKILLS](https://arxiv.org/pdf/2510.01375)|[summary](/papers/2510.01375v1.md)
 - [Rewards as Labels: Revisiting RLVR from a Classification Perspective](https://arxiv.org/pdf/2602.05630)|[summary](/papers/2602.05630v1.md)
 - [Rethinking Rubric Generation for Improving LLM Judge and Reward Modeling for Open-ended Tasks](https://arxiv.org/pdf/2602.05125)|[summary](/papers/2602.05125v1.md)
-- [Maximum Likelihood Reinforcement Learning](https://arxiv.org/pdf/2602.02710)|[website](https://zanette-labs.github.io/MaxRL/)|[summary](/papers/)
+- [Maximum Likelihood Reinforcement Learning](https://arxiv.org/pdf/2602.02710)|[website](https://zanette-labs.github.io/MaxRL/)|[summary](/papers/) ===> 
 - [RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation](https://arxiv.org/pdf/2602.01789)|[website](https://entongsu.github.io/rfs/)|[summary](/papers/2602.01789v3.md)
 - [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](https://arxiv.org/pdf/2602.05547)|[summary](/papers/2602.05547v1.md)
 - [Experiential Reinforcement Learning](https://www.arxiv.org/pdf/2602.13949)|[summary](/papers/2602.13949v1.md)
@@ -88,9 +88,9 @@
 - [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/pdf/2602.08234)|[summary](/papers/2602.08234v1.md)
 - [Reinforcement Learning via Self-Distillation](https://arxiv.org/pdf/2601.20802)|[summary](/papers/2601.20802v2.md)
 - [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)|[summary](/papers/2601.18778v2.md)
-- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)|[summary](/papers/)
+- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769)|[summary](/papers/2412.06769v3.md)
 - [iGRPO: Self-Feedback–Driven LLM Reasoning](https://arxiv.org/pdf/2602.09000)|[summary](/papers/2602.09000v1.md) 
-- [Replicating Human Motivated Reasoning Studies with LLMs](https://arxiv.org/pdf/2601.16130)|[summary](/papers/)
+- [Replicating Human Motivated Reasoning Studies with LLMs](https://arxiv.org/pdf/2601.16130)|[summary](/papers/2601.16130v1.md)
 - [TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse](https://arxiv.org/pdf/2602.01439) | [code repo](https://github.com/pd-perry/TQL)|[summary](/papers/2602.01439v1.md) 
 - [DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research](https://arxiv.org/pdf/2511.19399)|[summary](/papers/2511.19399v2.md)
 - [CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/pdf/2602.12268)|[summary](/papers/)
@@ -98,18 +98,18 @@
 - [The Magic Correlations: Understanding Knowledge Transfer from Pretraining to Supervised Fine-Tuning](https://arxiv.org/pdf/2602.11217)|[summary](/papers/2602.11217v1.md)
 - [Intrinsic Credit Assignment for Long Horizon Interaction](https://www.alphaxiv.org/abs/intrinsic-credit-assignment)|[summary](/papers/IntrinsicCreditAssignmentforLongHorizonInteraction.md)
 - [The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/pdf/2601.06002)|[summary](/papers/2601.06002v2.md)
-- [Learning Personalized Agents from Human Feedback](https://arxiv.org/pdf/2602.16173)|[summary](/papers/)
+- [Learning Personalized Agents from Human Feedback](https://arxiv.org/pdf/2602.16173)|[summary](/papers/2602.16173v1.md)
 - [Revisiting the Platonic Representation Hypothesis: An Aristotelian View](https://arxiv.org/pdf/2602.14486)|[summary](/papers/2602.14486v1.md)
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://arxiv.org/pdf/2503.20783)|[summary](/papers/2503.20783v2.md)
 - [On-Policy Context Distillation for Language Models](https://arxiv.org/pdf/2602.12275)|[summary](/papers/2602.12275v1.md)
 - [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](https://arxiv.org/pdf/2507.17746)|[summary](/papers/2507.17746v2.md)
-- [Robust Policy Optimization to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/2602.08813)|[summary](/papers/2602.08813)v1.md)
+- [Robust Policy Optimization to Prevent Catastrophic Forgetting](https://arxiv.org/pdf/2602.08813)|[summary](/papers/2602.08813v1.md)
 - [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/pdf/2601.18734)|[summary](/papers/2601.18734v1.md)
 - [Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents](https://arxiv.org/pdf/2601.18217)|[summary](/papers/)
-- [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)  |[summary](/papers/)
-- [Small Reward Models via Backward Inference](https://arxiv.org/pdf/2602.13551) |[summary](/papers/)
-- [CodeScaler: Scaling Code LLM Training and Test-Time Inference via Execution-Free Reward Models](https://arxiv.org/pdf/2602.17684) |[summary](/papers/)
-- [Learning Without Training](https://arxiv.org/pdf/2602.17985) |[summary](/papers/)
+- [Generative Modeling via Drifting](https://arxiv.org/pdf/2602.04770)  |[summary](/papers/2602.04770v2.md)
+- [Small Reward Models via Backward Inference](https://arxiv.org/pdf/2602.13551) |[summary](/papers/2602.13551v1.md)
+- [CodeScaler: Scaling Code LLM Training and Test-Time Inference via Execution-Free Reward Models](https://arxiv.org/pdf/2602.17684) |[summary](/papers/2602.17684v1.md)
+- [Learning Without Training](https://arxiv.org/pdf/2602.17985) |[summary](/papers/2602.17985v1.md)
 
 ### Interpretability
 - [Anthropic:Tracing the Thoughts of a Large Language Model](https://www.anthropic.com/research/tracing-thoughts-language-model) | [summary](papers/ant_circuit_tracing_2.md)
@@ -127,7 +127,7 @@
 - [Chain of Thought Monitorability](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
 - [Training a Generally Curious Agent](https://arxiv.org/pdf/2502.17543)      
 2026      
-- [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/large-language-model-reasoning-failures.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) ==> LLM reasoning fails in multiple domain and taxnomy
+- [Large Language Model Reasoning Failures](https://www.arxiv.org/pdf/2602.06176) |[summary](papers/2602.06176v1.md)|[list of papers](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) 
 - [LLMs are zero-shot reasoners](https://arxiv.org/pdf/2205.11916v4) | [summary](papers/2205.11916v4.md)
 - [Prompt repetition improves non-reasoning LLMs](https://arxiv.org/pdf/)|[summary](papers/prompt-repetition-improves-non-reasoning-llms.md)
 - [Reasoning Models Generate Societies of Thought](https://arxiv.org/pdf/2601.10825v1)|[summary](papers/2601.10825v1.md)
@@ -135,7 +135,7 @@
 - [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1)|[summary](papers/2601.08808v1.md)
 - [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/ssrn-6097646.md)
 - [Training Large Language Models to Reasonina Continuous Latent Space](https://arxiv.org/pdf/2412.06769)[summary](papers/2412.06769v3.md)
-- [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/pdf/2602.08354) | [[summary](papers/react.md)]
+- [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/pdf/2602.08354) | [[summary](papers/2602.08354v2.md)]
 
 
 ### Agentic AI
@@ -155,7 +155,7 @@
 - [Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/pdf/2601.14192) | [summary](papers/2601.14192v1.md)
 - [Grounding Agent Memory in Contextual Intent](https://arxiv.org/pdf/2601.10702) | [summary](papers/2601.10702v1.md)
 - [A Large-Scale Study on the Development and Issues of Multi-Agent AI Systems](https://arxiv.org/pdf/2601.07136)  | [summary](papers/2601.07136v1.md)
-- [https://arxiv.org/pdf/2601.07711](https://arxiv.org/pdf/2601.07711)  | [summary](papers/.md)
+- [https://arxiv.org/pdf/2601.07711](https://arxiv.org/pdf/2601.07711)  | [summary](papers/2601.07711v1.md)
 - [Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale](https://arxiv.org/pdf/2601.10338) | [summary](papers/2601.10338v1.md)
 - [Scaling Small Agents Through Strategy Auctions](https://arxiv.org/pdf/2602.02751) | [summary](papers/2602.02751v1.md)
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/pdf/2602.12670) | [summary](papers/2602.12670v1.md)
@@ -206,9 +206,9 @@
 - [Statistical approximation is not general intelligence](https://www.nature.com/articles/d41586-026-00495-y) | [summary](papers/.md)
 - [Do generative video models understand physical principles?](https://arxiv.org/pdf/2501.09038) | [summary](papers/2501.09038v3.md)
 - [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures](https://arxiv.org/pdf/2509.14252) | [summary](papers/2509.14252v2.md)
-- [Tiny Recursive Reasoning with Mamba-2 Attention Hybrid](https://arxiv.org/pdf/2602.12078) | [summary](papers/.md)
-- [Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/pdf/2602.15012) | [summary](papers/.md)
-- [Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control](https://arxiv.org/pdf/2602.13193) | [website](https://steerable-policies.github.io/)  | [summary](papers/.md)
+- [Tiny Recursive Reasoning with Mamba-2 Attention Hybrid](https://arxiv.org/pdf/2602.12078) | [summary](papers/2602.12078v1.md)
+- [Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/pdf/2602.15012) | [summary](papers/2602.15012v1.md)
+- [Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control](https://arxiv.org/pdf/2602.13193) | [website](https://steerable-policies.github.io/)  | [summary](papers/2602.13193v1.md)
 
 ### Multi-modality
 - [ViT-5: Vision Transformers for The Mid-2020s](https://www.arxiv.org/pdf/2602.08071) | [code repo](https://github.com/wangf3014/ViT-5) ==> new vision transformer model
