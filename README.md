@@ -39,6 +39,9 @@
 - [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/pdf/2601.18778)|[summary](/papers/)
 - [Scaling Embedding Layers in Language Models](https://arxiv.org/pdf/2502.01637)|[summary](/papers/2502.01637v3.md)
 - [STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts](https://arxiv.org/pdf/2602.14265) |[summary](/papers/)
+- [Towards a Principled Muon under μ\mathsf{P}: Ensuring Spectral Conditions throughout Training](https://arxiv.org/pdf/2601.01306)|[summary](/papers/)
+- [The Platonic Representation Hypothesis](https://arxiv.org/pdf/2405.07987)  |[summary](/papers/)
+
 
 
 ### Training, RL and RFT
@@ -130,8 +133,8 @@
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/pdf/2601.12538v1)|[summary](papers/2601.12538v1.md)
 - [Multiplex Thinking:Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/pdf/2601.08808v1)|[summary](papers/2601.08808v1.md)
 - [Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender]([https://papers.ssrn.com/sol3/Delivery.cfm/6097646.pdf?abstractid=6097646&mirid=1)|[summary](papers/ssrn-6097646.md)
-- [Training Large Language Models to Reasonina Continuous Latent Space](https://arxiv.org/pdf/2412.06769)[summary](papers/2412.06769v3.md)
-
+- [Training Large Language Models to Reasonina Continuous Latent Space](https://arxiv.org/pdf/2412.06769)[summary](papers/2412.06769v.md)
+- [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/pdf/2602.08354) | [[summary](papers/react.md)]
 
 ### Agentic AI
 - [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
@@ -157,6 +160,8 @@
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/pdf/2602.12670) | [summary](papers/.md)
 - [Let It Flow: Agentic Crafting on Rock and Roll - Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873) | [summary](papers/.md)
 - [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](https://arxiv.org/pdf/2510.24702) | [summary](papers/.md)
+- [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](https://arxiv.org/pdf/2602.12662) | [summary](papers/.md)
+- 
 
 
 ### Deep Research Agent 
