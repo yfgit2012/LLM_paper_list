@@ -163,7 +163,8 @@
 - [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](https://arxiv.org/pdf/2510.24702) | [summary](papers/.md)
 - [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](https://arxiv.org/pdf/2602.12662) | [summary](papers/.md)
 - [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/.md)
-
+- [Agents of Chaos](https://arxiv.org/pdf/2602.20021) | [summary](papers/.md)
+- [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/pdf/2510.04618)| [summary](papers/.md)
 
 ### Deep Research Agent 
 - [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/pdf/2506.12594)
