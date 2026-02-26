@@ -156,7 +156,7 @@
 - [Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/pdf/2601.14192) | [summary](papers/2601.14192v1.md)
 - [Grounding Agent Memory in Contextual Intent](https://arxiv.org/pdf/2601.10702) | [summary](papers/2601.10702v1.md)
 - [A Large-Scale Study on the Development and Issues of Multi-Agent AI Systems](https://arxiv.org/pdf/2601.07136)  | [summary](papers/2601.07136v1.md)
-- [https://arxiv.org/pdf/2601.07711](https://arxiv.org/pdf/2601.07711)  | [summary](papers/2601.07711v1.md)
+- [Is Agentic RAG worth it? An experimental comparison of RAG approaches](https://arxiv.org/pdf/2601.07711)  | [summary](papers/2601.07711v1.md)
 - [Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale](https://arxiv.org/pdf/2601.10338) | [summary](papers/2601.10338v1.md)
 - [Scaling Small Agents Through Strategy Auctions](https://arxiv.org/pdf/2602.02751) | [summary](papers/2602.02751v1.md)
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/pdf/2602.12670) | [summary](papers/2602.12670v1.md)
