@@ -166,6 +166,8 @@
 - [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/.md)
 - [Agents of Chaos](https://arxiv.org/pdf/2602.20021) | [summary](papers/2602.20021v1.md)
 - [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/pdf/2510.04618)| [summary](papers/2510.04618v2.md)
+- [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/2601.04748v2.md)
+
 
 ### Deep Research Agent 
 - [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/pdf/2506.12594)
@@ -188,6 +190,9 @@
 - [Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey](https://arxiv.org/abs/2503.22458)    
 - [MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935)    
 - [Towards Effective GenAI Multi-Agent Collaboration: Design and Evaluation for Enterprise Applications](https://arxiv.org/abs/2412.05449)    
+      
+2026      
+- [AGENCYBENCH: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts](https://arxiv.org/pdf/2601.11044)  | [summary](papers/2601.11044v2.md)
 
 
 ### Vertical LLMs and Agents
