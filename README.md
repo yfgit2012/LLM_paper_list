@@ -163,7 +163,7 @@
 - [Let It Flow: Agentic Crafting on Rock and Roll - Building the ROME Model within an Open Agentic Learning Ecosystem](https://arxiv.org/pdf/2512.24873) | [summary](papers/2512.24873v2.md)
 - [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](https://arxiv.org/pdf/2510.24702) | [summary](papers/2510.24702v1.md)
 - [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](https://arxiv.org/pdf/2602.12662) | [summary](papers/2602.12662v1.md)
-- [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/.md)
+- [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/2601.04748v2.md.md)
 - [Agents of Chaos](https://arxiv.org/pdf/2602.20021) | [summary](papers/2602.20021v1.md)
 - [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/pdf/2510.04618)| [summary](papers/2510.04618v2.md)
 - [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/pdf/2601.04748) | [summary](papers/2601.04748v2.md)
