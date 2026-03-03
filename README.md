@@ -224,8 +224,8 @@
 - [LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation](https://www.arxiv.org/pdf/2407.00737v1) | [summary](papers/2407.00737v1.md)
 - [ScImage: HOW GOOD ARE MULTIMODAL LARGE LANGUAGE MODELS AT SCIENTIFIC TEXT-TO-IMAGE GENERATION?](https://www.arxiv.org/pdf/2412.02368v1) | [summary](papers/2412.02368v1.md)
 - [LMM4LMM: Benchmarking and Evaluating Large-multimodal Image Generation with LMMs](https://www.arxiv.org/pdf/2504.08358v1) | [summary](papers/2504.08358v1.md)
-- [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://) | [summary](papers/NeurIPS-2024-adaptive-image-quality-assessment-via-teaching-large-multimodal-model-to-compare-Paper-Conference.md)
-- [Teaching Large Language Models to Regress Accurate Image Quality Scores Using Score Distribution(https://) | [summary](papers/You_Teaching_Large_Language_Models_to_Regress_Accurate_Image_Quality_Scores_CVPR_2025_paper.md)
+- [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://www.arxiv.org/pdf/2405.19298) | [summary](papers/NeurIPS-2024-adaptive-image-quality-assessment-via-teaching-large-multimodal-model-to-compare-Paper-Conference.md)
+- [Teaching Large Language Models to Regress Accurate Image Quality Scores Using Score Distribution]([https://](https://arxiv.org/pdf/2501.11561) | [summary](papers/You_Teaching_Large_Language_Models_to_Regress_Accurate_Image_Quality_Scores_CVPR_2025_paper.md)
 
 
 ### Fine-tuning Text2SQL and Text2Cypher
