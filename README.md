@@ -220,7 +220,7 @@
 - [ViT-5: Vision Transformers for The Mid-2020s](https://www.arxiv.org/pdf/2602.08071) | [code repo](https://github.com/wangf3014/ViT-5)      
 
 2026     
-- [AIGCBench:Comprehensiveevaluationofimage-to-videocontentgeneratedbyAI]() | [summary](papers/aigcbench.md)
+- [AIGCBench:Comprehensiveevaluationofimage-to-videocontentgeneratedbyAI](https://www.sciencedirect.com/science/article/pii/S2772485924000048?via%3Dihub) | [summary](papers/aigcbench.md)
 - [GenzIQA and GenzVQA: No-Reference Image and Video Quality Assessment via Diffusion Models and Cross-Attention](https://www.arxiv.org/pdf/2406.04654v2) | [summary](papers/2406.04654v2.md)
 - [Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities](https://www.arxiv.org/pdf/2410.08534v1) | [summary](papers/2410.08534v1.md)
 - [GENEVAL: An Object-Focused Framework for Evaluating Text-to-Image Alignment](https://www.arxiv.org/pdf/2310.11513v1) | [summary](papers/2310.11513v1.md)
