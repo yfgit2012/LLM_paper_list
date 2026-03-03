@@ -219,7 +219,10 @@
 ### Multi-modality
 - [ViT-5: Vision Transformers for The Mid-2020s](https://www.arxiv.org/pdf/2602.08071) | [code repo](https://github.com/wangf3014/ViT-5)      
 
-2026      
+2026     
+- [AIGCBench:Comprehensiveevaluationofimage-to-videocontentgeneratedbyAI]() | [summary](papers/aigcbench.md)
+- [GenzIQA and GenzVQA: No-Reference Image and Video Quality Assessment via Diffusion Models and Cross-Attention](https://www.arxiv.org/pdf/2406.04654v2) | [summary](papers/2406.04654v2.md)
+- [Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities](https://www.arxiv.org/pdf/2410.08534v1) | [summary](papers/2410.08534v1.md)
 - [GENEVAL: An Object-Focused Framework for Evaluating Text-to-Image Alignment](https://www.arxiv.org/pdf/2310.11513v1) | [summary](papers/2310.11513v1.md)
 - [LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation](https://www.arxiv.org/pdf/2407.00737v1) | [summary](papers/2407.00737v1.md)
 - [ScImage: HOW GOOD ARE MULTIMODAL LARGE LANGUAGE MODELS AT SCIENTIFIC TEXT-TO-IMAGE GENERATION?](https://www.arxiv.org/pdf/2412.02368v1) | [summary](papers/2412.02368v1.md)
