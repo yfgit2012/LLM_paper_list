@@ -67,7 +67,7 @@
 2026
 - [Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897)|[summary](/papers/2601.19897v1.md)
 - [Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful](https://arxiv.org/pdf/2507.07101)|[summary](/papers/2507.07101v4.md)
-- [The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination](https://arxiv.org/pdf/2601.08237)|[summary](/papers/2601.08237v1.md)
+- [The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination](https://arxiv.org/pdf/2601.08237)|[summary](/papers/2601.08237v1.md) ==> wrong summary
 - [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590)|[summary](/papers/2505.19590v2.md)
 - [Self-Improving Pretraining: using post-trained models to pretrain better models](https://arxiv.org/pdf/2601.21343)|[summary](/papers/2601.21343v2.md)
 - [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://arxiv.org/pdf/2602.02488)|[summary](/papers/2602.02488v1.md)
