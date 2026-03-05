@@ -208,7 +208,8 @@
 - [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985)
 - [ATTENTION SINKS AND COMPRESSION VALLEYS IN LLMS ARE TWO SIDES OF THE SAME COIN](https://arxiv.org/pdf/2510.06477)  ===> why transformers fail     
 
-2026     
+2026 
+- RLVR-World: [RLVR-World: Training World Models with Reinforcement Learning](https://arxiv.org/abs/2505.13934) | [summary](papers/rlvr-world.md) | [[repo](https://github.com/thuml/RLVR-World)]
 - [Statistical approximation is not general intelligence](https://www.nature.com/articles/d41586-026-00495-y) | [summary](papers/Statistical-approximation_is_not_general_intelligence.md)
 - [Do generative video models understand physical principles?](https://arxiv.org/pdf/2501.09038) | [summary](papers/2501.09038v3.md)
 - [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures](https://arxiv.org/pdf/2509.14252) | [summary](papers/2509.14252v2.md)
