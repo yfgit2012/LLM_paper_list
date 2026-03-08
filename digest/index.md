@@ -1,4 +1,4 @@
-# X.com Bookmarks Index
+# My AI Industry Digest
 
 Generated: 2026-03-08T05:26:15.458Z
 
